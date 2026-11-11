@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "com.luffy.redstoneoptimizer.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "RenderSectionRegionMixin",
+    "PistonHeadRendererMixin",
+    "ParticleEngineMixin",
+    "LevelEventHandlerMixin",
+    "EntityRendererMixin",
+    "LiquidBlockRendererMixin"
+  ],
+  "injectors": { "defaultRequire": 0 }
+}
