@@ -7,8 +7,7 @@
     "PistonHeadRendererMixin",
     "ParticleEngineMixin",
     "LevelEventHandlerMixin",
-    "EntityRendererMixin",
-    "LiquidBlockRendererMixin"
+    "EntityRendererMixin"
   ],
   "injectors": { "defaultRequire": 0 }
 }
