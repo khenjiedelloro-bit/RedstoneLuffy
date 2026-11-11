@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "LuffyRedstoneOptimizer",
   "description": "Client-side only. Hides laggy redstone visuals without changing how redstone works.",
-  "authors": ["Luffy"],
+  "authors": ["LUFFY49408"],
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
