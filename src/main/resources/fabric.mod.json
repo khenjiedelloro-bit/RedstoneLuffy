@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "luffyredstoneoptimizer",
+  "version": "${version}",
+  "name": "LuffyRedstoneOptimizer",
+  "description": "Client-side only. Hides laggy redstone visuals without changing how redstone works.",
+  "authors": ["Luffy"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.luffy.redstoneoptimizer.LuffyRedstoneOptimizer"]
+  },
+  "mixins": ["luffyredstoneoptimizer.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
